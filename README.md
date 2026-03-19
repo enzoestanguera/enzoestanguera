@@ -8,7 +8,7 @@ I am passionate about technology and continuous learning, always seeking to expa
 
 ![Snake animation](https://raw.githubusercontent.com/enzoestanguera/enzoestanguera/output/github-contribution-grid-snake.svg)
 
-<img align="right" height="300" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExOHJmd2pxZXdjOTkwN3RwYW12Ym02dzI4eDR4dDhwcG9lbW5pOW1xciZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/bGgsc5mWoryfgKBx1u/giphy.gif"  />
+<img align="right" height="400" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExZHkxN2ticTIydjNmZmU2b2lvN2I3OThnNHdndnFvN3ZrdXNxYXRqYyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/78XCFBGOlS6keY1Bil/giphy.gif"  />
 
 ## 🚀👨🏾‍💻 My Technologies
 <p align="left">
