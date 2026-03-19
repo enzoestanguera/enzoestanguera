@@ -23,7 +23,7 @@ I am passionate about technology and continuous learning, always seeking to expa
 </p>
 
 
-## 🌐 Minhas Redes Sociais
+## 🌐 My Social Networks
 
 <div>
  <a href="https://https://www.instagram.com/enzo_estanguera/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
