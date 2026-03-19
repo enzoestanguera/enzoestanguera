@@ -1,4 +1,4 @@
-name: Generate Pacman Graph
+name: Generate Snake
 
 on:
   schedule:
@@ -18,7 +18,7 @@ jobs:
           github_user_name: enzoestanguera
           outputs: dist/github-contribution-grid-snake.svg
 
-      - name: Push to repo
+      - name: Push
         uses: crazy-max/ghaction-github-pages@v3
         with:
           target_branch: output
