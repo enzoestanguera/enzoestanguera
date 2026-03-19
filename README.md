@@ -34,7 +34,7 @@ I am passionate about technology and continuous learning, always seeking to expa
 
 
 
-  ## ⚙️ Estatísticas GitHub
+  ## ⚙️ GitHub Stats
 
   <div align="center">
   <a href="https://github.com/enzoestanguera">
