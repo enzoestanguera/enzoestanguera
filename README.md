@@ -10,7 +10,7 @@ I am passionate about technology and continuous learning, always seeking to expa
 
 <img align="right" height="300" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExOHJmd2pxZXdjOTkwN3RwYW12Ym02dzI4eDR4dDhwcG9lbW5pOW1xciZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/bGgsc5mWoryfgKBx1u/giphy.gif"  />
 
-## 🚀👨🏾‍💻 Minhas Tecnologias
+## 🚀👨🏾‍💻 My Technologies
 <p align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original-wordmark.svg" width="60"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" width="60"/>
