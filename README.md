@@ -8,7 +8,7 @@ I am passionate about technology and continuous learning, always seeking to expa
 
 ![Snake animation](https://raw.githubusercontent.com/enzoestanguera/enzoestanguera/output/github-contribution-grid-snake.svg)
 
-
+<img align="right" height="300" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExOHJmd2pxZXdjOTkwN3RwYW12Ym02dzI4eDR4dDhwcG9lbW5pOW1xciZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/bGgsc5mWoryfgKBx1u/giphy.gif"  />
 
 ## 🚀👨🏾‍💻 Minhas Tecnologias
 <p align="left">
@@ -22,11 +22,14 @@ I am passionate about technology and continuous learning, always seeking to expa
        
 </p>
 
+
 ## 🌐 Minhas Redes Sociais
 
 <div>
  <a href="https://https://www.instagram.com/enzo_estanguera/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/enzo-estanguera" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+  <a href="https://discord.gg/wagxzStdcR" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a>
+   <a href = "mailto:contatorafaballerini@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 </div>
 
 
