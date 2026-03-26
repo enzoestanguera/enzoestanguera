@@ -36,12 +36,9 @@ I am passionate about technology and continuous learning, always seeking to expa
 
   ## ⚙️ GitHub Stats
 
-  <div align="center">
-  <a href="https://github.com/enzoestanguera">
-  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=enzoestanguera&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=enzoestanguera&layout=compact&langs_count=7&theme=dark"/>
-</div>        
-          
+<div align="center">
+  <img src="https://streak-stats.demolab.com?user=enzoestanguera&locale=pt-br&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
+</div> 
           
 
 <!--
