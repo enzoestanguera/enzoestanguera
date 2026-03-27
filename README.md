@@ -39,6 +39,11 @@ I am passionate about technology and continuous learning, always seeking to expa
 <div align="center">
   <img src="https://streak-stats.demolab.com?user=enzoestanguera&locale=pt-br&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
 </div> 
+<br>
+
+<div align="center">
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=enzoestanguera&left_color=darkslategray&right_color=green&left_text=VISITANTES"  />
+</div>
           
 
 <!--
