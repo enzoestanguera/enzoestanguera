@@ -1,10 +1,28 @@
-Hi!!! I'm Enzo :) ⚡
+<div align="center">
 
-🎯 Professional Introduction
 
-I am a Systems Analysis and Development student with practical experience in several programming languages and technologies. During my studies, I built a solid foundation in HTML, CSS, and SQL, while also enhancing my skills through additional courses in JavaScript, Java, Python, and Visual Studio Code.
+  
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=160&section=header&text=Hello!%20I'm%20Enzo%20Estanguera%20⚡&fontSize=34&fontColor=ffffff&animation=fadeIn&fontAlignY=36&desc=Fullstack%20Developer%20in%20Progress&descAlignY=62&color=0:03111f,50:0a2a43,100:103b52" />
+</div>
 
-I am passionate about technology and continuous learning, always seeking to expand my knowledge and apply it to real-world projects. I have strong logical thinking and problem-solving skills, and I am constantly evolving to become a versatile professional in the IT field.
+<h1 align="center">💻 Welcome to my GitHub</h1>
+
+<p align="center">
+  <strong>Systems Analysis and Development Student - FIAP</strong><br>
+  Focused on <strong> Html, Css, Java Fullstack Development</strong>
+</p>
+
+<p align="center">
+  <a href="https://github.com/enzoestanguera">
+    <img src="https://komarev.com/ghpvc/?username=enzoestanguera&label=Profile%20Views&color=0e75b6&style=for-the-badge" />
+  </a>
+  <a href="https://github.com/enzoestanguera?tab=followers">
+    <img src="https://img.shields.io/github/followers/enzoestanguera?label=Followers&style=for-the-badge&color=1f6feb" />
+  </a>
+  <a href="https://github.com/enzoestanguera?tab=repositories">
+    <img src="https://img.shields.io/badge/Repositories-GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+</p>
 
 ![Snake animation](https://raw.githubusercontent.com/enzoestanguera/enzoestanguera/output/github-contribution-grid-snake.svg)
 
@@ -41,9 +59,7 @@ I am passionate about technology and continuous learning, always seeking to expa
 </div> 
 <br>
 
-<div align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=enzoestanguera&left_color=darkslategray&right_color=green&left_text=VISITANTES"  />
-</div>
+
           
 
 <!--
