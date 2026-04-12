@@ -2,7 +2,7 @@
 
 
   
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=160&section=header&text=Hello!%20I'm%20Enzo%20Estanguera%20⚡&fontSize=34&fontColor=ffffff&animation=fadeIn&fontAlignY=36&desc=Fullstack%20Developer%20in%20Progress&descAlignY=62&color=0:7ed957,50:9be564,100:c7f9a6" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=160&section=header&text=Hello!%20I'm%20Enzo%20Estanguera%20⚡&fontSize=34&fontColor=ffffff&animation=fadeIn&fontAlignY=36&desc=Fullstack%20Developer%20in%20Progress&descAlignY=62&color=0:0d1117,50:1f6f4a,100:2ea043" />
 </div>
 
 <h1 align="center">💻 Welcome to my GitHub</h1>
