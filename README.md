@@ -1,80 +1,103 @@
 <div align="center">
 
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=160&section=header&text=Enzo%20Estanguera&fontSize=34&fontColor=ffffff&animation=fadeIn&fontAlignY=36&desc=Fullstack%20Developer%20in%20Progress&descAlignY=62&color=0:0d1117,50:111827,100:1f2937" />
 
-  
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=160&section=header&text=Hello!%20I'm%20Enzo%20Estanguera%20⚡&fontSize=34&fontColor=ffffff&animation=fadeIn&fontAlignY=36&desc=Fullstack%20Developer%20in%20Progress&descAlignY=62&color=0:0d1117,50:1f6f4a,100:2ea043" />
 </div>
 
-<h1 align="center">💻 Welcome to my GitHub</h1>
+<h1 align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?color=ffffff&size=24&center=true&vCenter=true&width=600&lines=Welcome+to+my+GitHub;Fullstack+Developer+in+Progress;Building+Clean+and+Modern+Applications" />
+</h1>
 
 <p align="center">
-  <strong>Systems Analysis and Development Student - FIAP</strong><br>
-  Focused on <strong> Html, Css, Java Fullstack Development</strong>
+  Systems Analysis and Development Student FIAP<br>
+  Focused on <b>HTML, CSS, Java, Fullstack Development</b>
+</p>
+
+<p align="center">
+  <b style="font-size:19px;">
+    Don’t miss new projects 🚀
+  </b>
 </p>
 
 <p align="center">
   <a href="https://github.com/enzoestanguera">
-    <img src="https://komarev.com/ghpvc/?username=enzoestanguera&label=Profile%20Views&color=0e75b6&style=for-the-badge" />
-  </a>
-  <a href="https://github.com/enzoestanguera?tab=followers">
-    <img src="https://img.shields.io/github/followers/enzoestanguera?label=Followers&style=for-the-badge&color=1f6feb" />
-  </a>
-  <a href="https://github.com/enzoestanguera?tab=repositories">
-    <img src="https://img.shields.io/badge/Repositories-GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+    <img src="https://img.shields.io/badge/⭐%20BUILDING%20PROJECTS%20DAILY%20—%20FOLLOW%20ME-2ea043?style=for-the-badge&logo=github&logoColor=white" />
   </a>
 </p>
 
-![Snake animation](https://raw.githubusercontent.com/enzoestanguera/enzoestanguera/output/github-contribution-grid-snake.svg)
 
-<img align="right" height="400" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExZHkxN2ticTIydjNmZmU2b2lvN2I3OThnNHdndnFvN3ZrdXNxYXRqYyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/78XCFBGOlS6keY1Bil/giphy.gif"  />
 
-## 🚀👨🏾‍💻 My Technologies
+<p align="center">
+  <a href="https://github.com/enzoestanguera">
+    <img src="https://komarev.com/ghpvc/?username=enzoestanguera&label=PROFILE%20VIEWS&color=2ea043&style=for-the-badge" />
+  </a>
+
+  <a href="https://github.com/enzoestanguera?tab=followers">
+    <img src="https://img.shields.io/github/followers/enzoestanguera?label=FOLLOWERS&style=for-the-badge&color=2ea043" />
+  </a>
+
+  <a href="https://github.com/enzoestanguera?tab=repositories">
+    <img src="https://img.shields.io/badge/REPOSITORIES-GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+</p>
+
+</p>
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/enzoestanguera/enzoestanguera/output/github-contribution-grid-snake.svg" />
+</p>
+
+---
+
+## 🧠 About Me
+
+- 🎓 FIAP Student (Systems Analysis and Development)
+- 💻 Fullstack Developer in progress
+- ⚡ Focused on Java, Web Development and APIs
+- 🚀 Always learning and building projects
+
+---
+
+## 🚀 Technologies
+
 <p align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original-wordmark.svg" width="60"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" width="60"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original-wordmark.svg" width="60"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" width="60" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original-wordmark.svg" width="60" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original-wordmark.svg" width="60"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original-wordmark.svg" width="60"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/figma/figma-original.svg" width="60"/>
-       
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" width="60"/>
 </p>
 
+---
 
-## 🌐 My Social Networks
+## 🌐 Social Networks
 
-<div>
- 
-  
- <a href="https://https://www.instagram.com/enzo_estanguera/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/enzo-estanguera" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-  <a href="https://discord.com/channels/@me/1483553546245767178" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a>
-   <a href = "mailto:enzo.estanguera@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-</div>
+<p align="left">
 
+<a href="https://www.instagram.com/enzo_estanguera/">
+<img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white">
+</a>
 
+<a href="https://www.linkedin.com/in/enzo-estanguera">
+<img src="https://img.shields.io/badge/LinkedIn-1f6feb?style=for-the-badge&logo=linkedin&logoColor=white">
+</a>
 
-  ## ⚙️ GitHub Stats
+<a href="mailto:enzo.estanguera@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-ff4b4b?style=for-the-badge&logo=gmail&logoColor=white">
+</a>
 
-<div align="center">
-  <img src="https://streak-stats.demolab.com?user=enzoestanguera&locale=pt-br&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
-</div> 
-<br>
+<a href="https://discord.com">
+<img src="https://img.shields.io/badge/Discord-6f00ff?style=for-the-badge&logo=discord&logoColor=white">
+</a>
 
+</p>
 
-          
+---
 
-<!--
-**enzoestanguera/enzoestanguera** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 📈 Activity
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=enzoestanguera&theme=dark&hide_border=false&border_radius=8" />
+</p>
