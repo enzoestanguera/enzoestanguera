@@ -101,3 +101,10 @@
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=enzoestanguera&theme=dark&hide_border=false&border_radius=8" />
 </p>
+
+<p align="center">
+  <a href="https://github.com/enzoestanguera">
+    <picture>
+      <img height="150px" src="https://beautiful-github-homepage.vercel.app/api?username=enzoestanguera&hide_title=true&show_icons=true&theme=dark&include_all_commits=true" />
+    </picture>
+  </a>
